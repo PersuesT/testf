@@ -166,17 +166,7 @@ We have provided a few built-in components like `<Tweet/>` and `<Youtube/>` that
 
 Check out [the guides](https://sli.dev/builtin/components.html) for more.
 
-</div>
-<div>
 
-```html
-<Tweet id="1390115482657726468" />
-```
-
-<Tweet id="1390115482657726468" scale="0.65" />
-
-</div>
-</div>
 
 
 ---
